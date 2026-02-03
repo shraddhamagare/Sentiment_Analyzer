@@ -34,6 +34,10 @@ It’s a practical demonstration of how Machine Learning moves from model → pr
 **How it Works :**
 User text → Text cleaned → Converted to numbers → Model predicts sentiment → Result shown with emoji + color
 
+**App Preview**
+<img width="1911" height="987" alt="image" src="https://github.com/user-attachments/assets/5b1088d1-ef01-4c3a-8a65-dad245e85936" />
+
+
 **🚀 Future Enhancements:**
 
 • Confidence score for predictions
