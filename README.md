@@ -37,7 +37,6 @@ User text → Text cleaned → Converted to numbers → Model predicts sentiment
 **App Preview**
 <img width="1911" height="987" alt="image" src="https://github.com/user-attachments/assets/5b1088d1-ef01-4c3a-8a65-dad245e85936" />
 
-
 **🚀 Future Enhancements:**
 
 • Confidence score for predictions
