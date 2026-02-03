@@ -47,7 +47,9 @@ User text → Text cleaned → Converted to numbers → Model predicts sentiment
 **👩‍💻 Creator :**
 
 Shradha Magare
+
 AI & ML Enthusiast | Future Data Scientist 🚀
+
 Passionate about building intelligent systems that solve real problems.
 
 **⭐ Like this project?**
