@@ -45,6 +45,7 @@ User text → Text cleaned → Converted to numbers → Model predicts sentiment
 • Storing analysis history in a database
 
 **👩‍💻 Creator :**
+
 Shradha Magare
 AI & ML Enthusiast | Future Data Scientist 🚀
 Passionate about building intelligent systems that solve real problems.
