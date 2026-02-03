@@ -1,0 +1,6 @@
+- List of Python libraries for deployment :
+
+streamlit
+scikit-learn
+numpy
+pandas
