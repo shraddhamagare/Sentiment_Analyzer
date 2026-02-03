@@ -48,9 +48,9 @@ User text → Text cleaned → Converted to numbers → Model predicts sentiment
 
 Shradha Magare
 
-AI & ML Enthusiast | Future Data Scientist 🚀
+AI & ML Enthusiast | Future Data Scientist 
 
 Passionate about building intelligent systems that solve real problems.
 
-**⭐ Like this project?**
+** Like this project?**
 Give it a ⭐ — it means a lot and keeps me building!
